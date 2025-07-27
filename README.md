@@ -1,6 +1,6 @@
 # Community mapping  and Air Quality Analysis Dashboard
 **Objective**
-Our challenge is to creatively model our community using a map that incorporates open-source science datasets and then use that map to explore how an issue in our community is shaped by the surrounding physical geography.Overview:
+
 This project leverages spatial visualization and real-time open-source datasets to analyze how air quality affects local communities. By mapping air quality monitoring data onto a digital dashboard, it empowers residents and authorities to recognize vulnerable areas and take informed environmental actions.
 
 🧠 Purpose & Vision
@@ -40,9 +40,8 @@ Visual trends (charts and graphs) show pollution fluctuation across time and spa
 Potential for integration of health statistics or anecdotal data (e.g., asthma reports).
 
 🛠️ Tools and Technologies
-From inference (and likely the content of the PPT/PDF):
 
-GIS Mapping: Likely using Leaflet.js, Mapbox, or ArcGIS tools.
+GIS Mapping: Likely using ArcGIS tools.
 
 Frontend: HTML, CSS, JavaScript for the dashboard UI.
 
