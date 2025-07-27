@@ -1,13 +1,6 @@
 # Community mapping  and Air Quality Analysis Dashboard
 **Objective**
-Your challenge is to creatively model your community using a spatial representation (map) that incorporates open-source science datasets and then use that map to explore how an issue in your community is shaped by the surrounding physical geography.
-
-How will you define your “community?” Think beyond defined markers and borders, and instead reflect on what “home” means to you. What are the biggest issues facing your community and how do those who live there interact with the environment around them? Your map will tell a story, but determining what that story is and the boundaries of your community are completely up to you!
-
-Your map can take many forms, such as a product made with geographic software or an artistic interpretation in the form of a painting. You could develop an interactive game, or an app that a user can explore, or something else entirely! No matter what format your map takes, make sure it serves as an effective visual/spatial representation of the story you’re trying to tell about your community, and it incorporates open-source data sets to provide scientific evidence.
-
-A community is as big or small as you make it! Whether you model your entire country or just your street, displaying data in a visual, spatial format could reveal new insights that even the most knowledgeable community expert may not have thought of!
-
+Our challenge is to creatively model our community using a map that incorporates open-source science datasets and then use that map to explore how an issue in our community is shaped by the surrounding physical geography.
 
 **Project Description**
 
